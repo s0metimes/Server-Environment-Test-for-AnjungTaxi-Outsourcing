@@ -1,0 +1,24 @@
+{
+  "name": "anjung_server",
+  "version": "0.0.0",
+  "description": "anjung server environment setting test",
+  "main": "app.js",
+  "scripts": {
+    "start": "sudo node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s0metimes/Server-Environment-Test-for-AnjungTaxi-Outsourcing.git"
+  },
+  "author": "s0metimes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s0metimes/Server-Environment-Test-for-AnjungTaxi-Outsourcing/issues"
+  },
+  "homepage": "https://github.com/s0metimes/Server-Environment-Test-for-AnjungTaxi-Outsourcing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.2"
+  }
+}
