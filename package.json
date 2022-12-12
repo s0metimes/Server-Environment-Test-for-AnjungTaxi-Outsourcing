@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/s0metimes/Server-Environment-Test-for-AnjungTaxi-Outsourcing#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.2"
   }
 }
